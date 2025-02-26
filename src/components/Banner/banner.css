@@ -1,0 +1,23 @@
+.img-1{
+    background: url('./img/img-banner1.jpg') rgba(0, 0, 0, 0.5);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 70vh;
+}
+
+.img-2{
+    background: url('./img/img-banner2.jpg') rgba(0, 0, 0, 0.5);
+    background-position: center;
+        background-size: cover;
+        background-blend-mode: overlay;
+    height: 70vh;
+}
+
+.img-3 {
+    background: url('./img/img-banner3.jpg') rgba(0, 0, 0, 0.5);
+    background-position: center;
+        background-size: cover;
+        background-blend-mode: overlay;
+    height: 70vh;
+}
